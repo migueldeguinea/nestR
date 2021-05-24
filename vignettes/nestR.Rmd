@@ -2,6 +2,8 @@
 title: "Analysis of bird nesting from GPS data in R: the `nestR` package"
 author: "Simona Picardi"
 date: "January 2019"
+Suggests: markdown
+VignetteBuilder: knitr
 output: 
   rmarkdown::html_vignette:
     toc: true
